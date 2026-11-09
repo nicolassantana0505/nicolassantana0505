@@ -1,18 +1,20 @@
-# Oi, eu sou Nicolas Sant'Ana! 👋
+# Hi, I'm Nicolas Sant'Ana! 👋
 
-Sou estudante de programação e estagiário em uma escola de tecnologia chamada Codi Academy. O estágio me aproxima da rotina de uma escola de programação, e nos meus projetos de estudo eu coloco a mão no código, testo ideias e aprendo a investigar os erros que aparecem pelo caminho.
+I'm a programming student and an intern at Codi Academy, a tech school. My internship gives me a firsthand look at how a coding school works. In my personal projects, I write code, test ideas, and learn how to track down bugs along the way.
 
-## 💻 O que estou estudando
+## 💻 What I'm Studying
 
-- **Front-end:** HTML, CSS, JavaScript e TypeScript. Com React, estou praticando a criação de componentes e páginas que se adaptam a diferentes telas.
-- **Back-end:** Node.js, APIs REST e MongoDB. Estou aprendendo a validar dados e implementar operações de cadastro, consulta, atualização e exclusão.
-- **Dados:** Python, Machine Learning, IAs
-- **Git e GitHub:** versionamento de projetos, commits e organização dos meus repositórios de estudo.
+- **Front end:** HTML, CSS, JavaScript, and TypeScript. I'm using React to practice building components and pages that adapt to different screen sizes.
+- **Back end:** Node.js, REST APIs, MySql and MongoDB. I'm learning to validate data and implement create, read, update, and delete (CRUD) operations.
+- **Data and AI:** Python, machine learning, and artificial intelligence.
+- **Git and GitHub:** I use version control to track changes, make commits, and organize my learning repositories.
 
-## 🛠️ Projeto em destaque
+## 🛠️ Featured Project
 
-**Digital Store** — uma loja virtual que estou desenvolvendo como projeto de estudo. No front-end, trabalho em páginas de catálogo e detalhes de produto. No back-end, pratico filtros e paginação na listagem de produtos.
+**Digital Store** — an online store I'm building as a learning project. On the front end, I'm working on the product catalog and product detail pages. On the back end, I'm practicing how to implement filtering and pagination for product listings.
 
-## 🎯 Meu próximo passo
+## 🎯 What's Next
 
-Quero ganhar autonomia para construir uma aplicação web do início ao fim, da interface à integração com a API e o banco de dados. Uso este GitHub para reunir exercícios, projetos e soluções que fui aprendendo na prática.
+I want to build a complete web application on my own, from designing the interface to connecting it to an API and a database. I use this GitHub profile to share my exercises, projects, and solutions as I learn by doing.
+Linkedln: www.linkedin.com/in/nícolas-sant-ana
+Email: santananick2015@gmail.com
